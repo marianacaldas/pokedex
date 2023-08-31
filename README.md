@@ -1,7 +1,5 @@
-# Trilha JS Developer - Pokedex
+Linguagens:
 
-- Linguagens:
-  
-  HTML
-  CSS
-  JavaScript
+- HTML
+- CSS
+- JavaScript
